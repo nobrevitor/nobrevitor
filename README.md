@@ -1,13 +1,15 @@
 ## Olá 👋
 
+- 🌱 Aprimorando meus conhecimentos em Python, Machine Learning e SQL com ênfase em aplicações voltadas a ciência de dados.
+- 👯 Em busca de um primeiro emprego na área de ciência de dados.
+  
 <!--
 **nobrevitor/nobrevitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 Aprimorando meus conhecimentos em Python, Machine Learning e SQL com ênfase em aplicações voltadas a ciência de dados
-- 👯 Em busca de um primeiro emprego na área de ciência de dados.
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
