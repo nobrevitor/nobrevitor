@@ -14,9 +14,10 @@ ___
 
 <div style="display: inline_block;"><br>
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img aling="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+  <img aling="center" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+  <img aling="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
 </div>
 
