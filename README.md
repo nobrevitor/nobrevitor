@@ -1,9 +1,8 @@
 ## Vitor Nobre
 
--  Técnico em Informática para Internet
--  Ciência de Dados, Big Data, Machine Learning e Power BI com a EBAC.
--  Aprimorando meus conhecimentos em Python, Machine Learning e SQL com ênfase em aplicações voltadas a ciência de dados.
--  Em busca de um primeiro emprego na área de ciência de dados.
+-  Ciêntista de dados.
+-  Ciência de Dados, Engenharia de Dados, Big Data, Machine Learning, IA e Power BI.
+-  Aprimorando meus conhecimentos em Deep Learning, Machine Learning e SQL com ênfase em aplicações voltadas a dados.
 ___
 
 <div align='center'>
