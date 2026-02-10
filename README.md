@@ -23,6 +23,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nobrevitor&layout=compact&langs_count=4&theme=moltack" />
+</div>
+  
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
@@ -48,8 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrevitor&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
