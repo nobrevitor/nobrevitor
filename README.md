@@ -23,9 +23,9 @@
 ###
 
 <div align="center">
-  <br>
+  <br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nobrevitor&layout=compact&langs_count=4&theme=moltack" />
-  <br>
+  <br/>
 </div>
   
 ###
@@ -55,8 +55,6 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
-
-###
 
 
 ###
