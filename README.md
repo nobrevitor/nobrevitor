@@ -1,30 +1,62 @@
-## Vitor Nobre
+<h1 align="center">Vitor Nobre</h1>
 
--  Ciêntista de dados.
--  Ciência de Dados, Engenharia de Dados, Big Data, Machine Learning, IA e Power BI.
--  Aprimorando meus conhecimentos em Deep Learning, Machine Learning e SQL com ênfase em aplicações voltadas a dados.
-___
+###
 
-<div align='center'>
-  <a href="https://github.com/nobrevitor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nobrevitor&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrevitor&layout=compact&theme=dark#gh-dark-mode-only">
+<div align="center">
+  <a href="https://www.linkedin.com/in/vitor-nobre-silva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vitor.nobre.silva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
+  </a>
+  <a href="mailto:nobre.vitor@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="20" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
-<div style="display: inline_block;"><br>
-  <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img aling="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
-  <img aling="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
-  <img aling="center" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-  <img aling="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-  <img aling="center" height="30" width="40" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-athena-hv6gsv93ozj2o0gsxdtg6m.png/aws-athena-jan6k55udjsv6va5uwobn.png?_a=DATAdtAAZAA0" />
+###
 
-  
+<p align="left">Cientista de Dados<br><br>Atuo com Ciência de Dados, Engenharia de Dados, Big Data, Machine Learning, Inteligência Artificial e Power BI, com foco em transformar dados em insights acionáveis e soluções orientadas a negócio.<br><br>Atualmente, estou cursando Data Science na FIAP, aprofundando conhecimentos em Machine Learning, Deep Learning e SQL, com ênfase em aplicações práticas e projetos reais.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nobrevitor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nobrevitor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-##
-  
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+</div>
+
+###
+
 <div>
-  <a href = "mailto:vitor.nobre.silva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vitor-nobre-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
+
+###
