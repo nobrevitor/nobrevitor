@@ -23,7 +23,9 @@
 ###
 
 <div align="center">
+  <br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nobrevitor&layout=compact&langs_count=4&theme=moltack" />
+  <br>
 </div>
   
 ###
